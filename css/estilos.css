@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: var(--branca);
+  color: rgb(rgb(236, 230, 230), rgb(239, 244, 239), rgb(238, 238, 246));
   margin-bottom: 20px;
   font-size: 2rem;
 }
